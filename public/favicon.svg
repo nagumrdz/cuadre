@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Fondo blanco -->
+  <rect width="512" height="512" fill="#FFFFFF"/>
+
+  <!-- Caja redondeada terracota con relleno suave -->
+  <rect
+    x="72" y="72" width="368" height="368" rx="84"
+    fill="rgba(224,92,53,0.10)"
+    stroke="#E05C35"
+    stroke-width="24"
+  />
+
+  <!-- Checkmark terracota -->
+  <path
+    d="M148 256 L222 332 L364 178"
+    stroke="#E05C35"
+    stroke-width="32"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+</svg>
